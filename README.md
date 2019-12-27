@@ -33,3 +33,4 @@ On ARM platform one has to activate NEON support explicitly inside the
 
 ## Platforms
 
+See *.md files in this directory.
