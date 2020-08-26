@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# usage:
+# 1- create suitably name subfolder in the platform directory,
+# 2- unpack the compressed result of bench_all.sh (in pffft) in this new folder
+# 3- run '../csv2md.sh' from that new folder
+
 P=$(pwd)
 N=$(basename "$P")
 
