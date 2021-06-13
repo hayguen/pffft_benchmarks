@@ -1,0 +1,25 @@
+benchmark clang11
+CMake major:    3
+CMake minor:    16
+OS:             Unix
+System:         Linux
+System CPU:     x86_64
+System Version: 5.8.0-55-generic
+C   Compiler:   Clang
+C   Version:    11.0.0
+C++ Compiler:   Clang
+C++ Version:    11.0.0
+MSVC Version:   
+MSVC Toolset:   
+Exe Suffix:     
+C   Byte Order: 
+C++ Byte Order: 
+
+Architecture:   native
+Fast math:      ON
+config USE_BENCH_FFTW=ON
+config USE_BENCH_GREEN=ON
+config USE_BENCH_KISS=ON
+config USE_BENCH_OOURA=OFF
+config USE_BENCH_POCKET=ON
+config USE_BENCH_MKL=ON
