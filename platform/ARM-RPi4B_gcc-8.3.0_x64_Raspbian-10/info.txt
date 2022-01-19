@@ -1,0 +1,28 @@
+benchmark rpi4b32
+CMake major:    3
+CMake minor:    16
+OS:             Unix
+System:         Linux
+System CPU:     armv7l
+System Version: 5.10.63-v7l+
+C   Compiler:   GNU
+C   Version:    8.3.0
+C++ Compiler:   GNU
+C++ Version:    8.3.0
+MSVC Version:   
+MSVC Toolset:   
+Exe Suffix:     
+C   Byte Order: 
+C++ Byte Order: 
+
+Architecture:   native
+Fast math:      ON
+config USE_SIMD=ON
+config DISABLE_SIMD_AVX=ON
+config USE_SIMD_NEON=ON
+config USE_SCALAR_VECT=ON
+config USE_BENCH_FFTW=ON
+config USE_BENCH_GREEN=OFF
+config USE_BENCH_KISS=OFF
+config USE_BENCH_POCKET=OFF
+config USE_BENCH_MKL=OFF
